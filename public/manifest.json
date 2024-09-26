@@ -1,0 +1,31 @@
+{
+  "short_name": "Sadhan Sangha",
+  "name": "ReplaceMeAppName",
+  "description": "ReplaceMeAppName, a non-profit spiritual organization, offers spiritual solace and guidance under the compassionate mentorship of Yogi 108 Swami Sachchidananda Saraswati. Explore our sanctuary for transformative teachings, daily satsangs, and divine wisdom, as we embark on a journey of inner awakening and self-discovery. Join us on the path to spiritual enlightenment and serenity amidst the tranquil embrace of nature at ReplaceMeAppName.",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#fff1e4",
+  "background_color": "#bda894"
+}

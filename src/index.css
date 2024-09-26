@@ -1,0 +1,22 @@
+:root {
+  --default-100: #fff1e4;
+  --default-200: #bda894;
+  --default-250: #b5a08d;
+  --default-300: #464038;
+  --orange-500: #c96a14;
+
+  --bg-light: var(--default-100);
+  --bg: var(--default-200);
+  --bg-dark: var(--default-300);
+  --text-light: var(--default-100);
+  --text: var(--default-300);
+  --text-mid: var(--default-250);
+  --text-dark: var(--default-200);
+
+  --footer-header: var(--orange-500);
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text)
+}
