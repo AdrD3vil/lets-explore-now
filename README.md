@@ -1,2 +1,2 @@
-# Vista_Hackathon
-Frontend repo for vista hackathon 2024
+# Lets Explore Now
+Repo for Lets Explore Now Website

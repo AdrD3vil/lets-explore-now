@@ -1,7 +1,7 @@
 {
     "version": 1.0,
     "headers": {
-        "title": "ReplaceMeAppName",
+        "title": "Let's Explore Now",
         "shortTitle": "ReplaceMeST",
         "menuTitle": "ReplaceMeST - Menu",
         "guruji": "Guruji",
@@ -31,10 +31,10 @@
     "footer": {
         "privacy": "Privacy Policy",
         "dev": "Developed By",
-        "devName": "Rudra Roy",
-        "devLink": "https://github.com/astrarudra/sadhan-sangha",
-        "startYear": 2005,
-        "cc": "XYZ. All Rights Reserved."
+        "devName": "Rudra Roy,Atanu Debbarma",
+        "devLink": "https://github.com/astrarudra/lets-explore-now",
+        "startYear": 2024,
+        "cc": "All rights reserved Let's Explore Now."
     },
     "socialNames": {
         "fb": {"n": "Facebook", "n2": "FB"},

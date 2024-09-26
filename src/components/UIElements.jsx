@@ -1,15 +1,17 @@
 import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
 import { ReactComponent as SSADividerSVG } from '../assets/ssaDivider.svg';
-import { ReactComponent as SSALogo } from '../assets/ssaLogo.svg';
+import { ReactComponent as LENLogo } from '../assets/mainLogo.svg';
 import { Icon } from '@iconify/react';
 import { Skeleton } from '@mui/material';
 
-export const SSALogoIcon = ({variant = 'variant-brown', sx}) => {
-    return <Box className={`logo-wrap ${variant}`} sx={sx}>
-        <SSALogo />
+export const SSALogoIcon = ({ variant = 'variant-brown', sx }) => {
+  return (
+    <Box className={`logo-wrap ${variant}`} sx={{ width: '100%', height: '100%', ...sx }}>
+      <LENLogo style={{ width: '100%', height: '100%', objectFit: 'contain' }} />
     </Box>
-}
+  );
+};
 
 
 export const InitLoader = ({ className="d-center fs", text="Loading"}) => (<div className={className} style={{color: '#f3d9c3'}}>

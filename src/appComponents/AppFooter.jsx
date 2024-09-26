@@ -48,7 +48,8 @@ const FooterBottomSection = () => {
           </Grid>
           <Grid item xs={12} sm={6} md={6} sx={{padding: 0}}>
             <Box sx={{ padding: {xs: 0, sm: "10px 15px"}}}>
-            {`© ${startYear} - ${thisYear}`} {cc}
+            {/* {`© ${startYear} - ${thisYear}`} {cc} */}
+            {`© ${startYear}`} {cc}
             </Box>
           </Grid>
           <Grid item xs={12} sm={3} md={3}>
