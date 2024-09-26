@@ -49,12 +49,12 @@
         "location": "Block 05 “A” Wing - 6th Floor, Pritech Park SEZ, Bellandur, Varthur Hobli, Bangalore - 560103, India",
         "gmap": "https://maps.app.goo.gl/fmuSMohkJcgPf7YR7",
         "phone": "+91 80-6822-6822", 
-        "email": "contact@eagleview.org",
-        "gmapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4390.044511307834!2d77.67929087507562!3d12.92319548738776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae136bb31c7a23%3A0xa7a1532d61b55a27!2sEagleView!5e1!3m2!1sen!2sin!4v1725449874465!5m2!1sen!2sin",
-        "gmapEmbedTitle": "Eagleview India Location Google Map"
+        "email": "contact@XYZ.org",
+        "gmapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4390.044511307834!2d77.67929087507562!3d12.92319548738776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae136bb31c7a23%3A0xa7a1532d61b55a27!2sXYZ!5e1!3m2!1sen!2sin!4v1725449874465!5m2!1sen!2sin",
+        "gmapEmbedTitle": "XYZ India Location Google Map"
     },
     "socialLinks": {
-        "yt": {"i": "logos:youtube-icon", "l": "https://www.youtube.com/@EagleView1"},
-        "fb": {"i": "logos:facebook", "l": "https://facebook.com/eagleviewindia1"}
+        "yt": {"i": "logos:youtube-icon", "l": "https://www.youtube.com/@XYZ1"},
+        "fb": {"i": "logos:facebook", "l": "https://facebook.com/XYZindia1"}
     }
 }
